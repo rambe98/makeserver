@@ -3,5 +3,5 @@
 
 int main()
 {
-    std::cout << "Hello World!\n";
+    std::cout << "cout를 c언어로는 printf 입니다.\n";
 }
